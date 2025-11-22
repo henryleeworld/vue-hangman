@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/NjHzmxA.gif)
+![](https://i.imgur.com/5QuS8vR.gif)
 > 請在三次錯誤前猜出英文句子
